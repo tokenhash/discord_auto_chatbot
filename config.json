@@ -1,0 +1,14 @@
+{
+    "bot" : {
+        "name": "chatbot",
+        "token": "这里填入discord用户的token"
+    },
+    "msgChannel" : {
+        "name":"BoomGala中文",
+        "id": "931289765700055040"
+    },
+    "targetChannel" : {
+        "name":"目标",
+        "id": "933620274849533962"
+    }
+}
